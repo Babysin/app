@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(21, 76, 187);
+}
+
+p{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: wider;
+}
+
+h1{
+    font-size: 50px;
+    float: center;
+    position: absolute;
+    left: 500px;
+
+}
